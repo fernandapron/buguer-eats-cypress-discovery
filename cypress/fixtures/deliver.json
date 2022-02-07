@@ -1,0 +1,54 @@
+{
+    "signup":{
+        "name" : "Fernanda Paron",
+        "cpf"  : "00000000191",
+        "email" : "fernanda@gmail.com",
+        "whatsApp" : "14997828222",
+        "address" :{
+            "postalcode" : "17025771",
+            "street" : "Rua Affonso Formenti",
+            "number" : "444",
+            "details" : "Antiga 26",
+            "district" : "Núcleo Habitacional Mary Dota",
+            "city_state" :"Bauru/SP"
+        },
+        "delivery_method" : "Moto",
+        "cnh" : "cnh-digital.jpg"
+
+    },
+
+    "cpf_in":{
+        "name" : "João Paulo",
+        "cpf"  : "zz00000000191xx",
+        "email" : "joaopaulo@gmail.com",
+        "whatsApp" : "14997828222",
+        "address" :{
+            "postalcode" : "17025771",
+            "street" : "Rua Affonso Formenti",
+            "number" : "444",
+            "details" : "Antiga 26",
+            "district" : "Núcleo Habitacional Mary Dota",
+            "city_state" :"Bauru/SP"
+        },
+        "delivery_method" : "Moto",
+        "cnh" : "cnh-digital.jpg"
+
+    },
+    "email_in":{
+        "name" : "Maria",
+        "cpf"  : "00000000191",
+        "email" : "maria.com",
+        "whatsApp" : "14997828222",
+        "address" :{
+            "postalcode" : "17025771",
+            "street" : "Rua Affonso Formenti",
+            "number" : "444",
+            "details" : "Antiga 26",
+            "district" : "Núcleo Habitacional Mary Dota",
+            "city_state" :"Bauru/SP"
+        },
+        "delivery_method" : "Moto",
+        "cnh" : "cnh-digital.jpg"
+
+    }
+}
